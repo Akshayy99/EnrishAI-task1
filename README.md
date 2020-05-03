@@ -4,8 +4,8 @@
 - express
 - exceljs
 
-### to run
+### To run
 
 node app.js
 
-App run on port 3040
+App runs on port 3040
